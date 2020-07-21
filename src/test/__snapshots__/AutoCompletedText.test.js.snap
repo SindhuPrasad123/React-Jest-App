@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AutoCompleteText / Auto Text Correctly 1`] = `
+<div
+  id="notebooks"
+>
+  <h2>
+    Auto Completed
+  </h2>
+  <input
+    id="query"
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <span>
+    Suggestions: 
+    0
+  </span>
+</div>
+`;
+
+exports[`Auto Text Correctly 1`] = `
+<div
+  id="notebooks"
+>
+  <h2>
+    Auto Completed
+  </h2>
+  <input
+    id="query"
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+  <span>
+    Suggestions: 
+    0
+  </span>
+</div>
+`;
